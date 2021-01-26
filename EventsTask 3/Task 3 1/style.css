@@ -1,0 +1,14 @@
+.pane {
+    background-color: #e6ffe6;
+    margin-left: 100px;
+    width: 450px;
+    box-sizing: border-box;
+    border-bottom: 3px solid lightgreen;
+    border-top: 3px solid lightgreen;
+    margin-left: 33%;
+}
+.remove-button {
+    margin: 30px 10px 100px 350px;
+    color: red;
+    cursor: pointer;
+}
