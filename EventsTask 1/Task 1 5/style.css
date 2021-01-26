@@ -1,0 +1,10 @@
+ul {
+    visibility: hidden;
+}
+#down {
+    visibility: hidden;
+    cursor: pointer;
+}
+#right {
+    cursor: pointer;
+}

@@ -1,0 +1,39 @@
+.horse {
+    background-color: #e6ffe6;
+    margin-left: 100px;
+    width: 450px;
+    box-sizing: border-box;
+    border-bottom: 3px solid lightgreen;
+    border-top: 3px solid lightgreen;
+    margin-left: 33%;
+}
+.donkey {
+    background-color: #e6ffe6;
+    margin-left: 100px;
+    width: 450px;
+    box-sizing: border-box;
+    border-bottom: 3px solid lightgreen;
+    margin-left: 33%;
+}
+.cat {
+    background-color: #e6ffe6;
+    margin-left: 100px;
+    width: 450px;
+    box-sizing: border-box;
+    margin-left: 33%;
+}
+.horseButton {
+    margin: 30px 10px 100px 350px;
+    color: red;
+    cursor: pointer;
+}
+.donkeyButton {
+    margin: 30px 10px 100px 350px;
+    color: red;
+    cursor: pointer;
+}
+.catButton {
+    margin: 30px 10px 100px 350px;
+    color: red;
+    cursor: pointer;
+}
