@@ -1,0 +1,17 @@
+#thumbs {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#thumbs li {
+    float: left;
+}
+#thumbs li a {
+    display: block;
+    padding-left: 16px;
+}
+.bigImg {
+    width: 500px;
+    height: 450px;
+}
